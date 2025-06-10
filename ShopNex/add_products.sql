@@ -1,0 +1,16 @@
+INSERT INTO products (title, description, price, image, stock) VALUES 
+('iPhone 15 Pro 128GB', 'Apple iPhone 15 Pro Titanium Blue', 59999.99, 'https://via.placeholder.com/300x300/4A90E2/FFFFFF?text=iPhone+15+Pro', 25),
+('Samsung Galaxy S24 Ultra', 'Samsung Galaxy S24 Ultra 256GB', 54999.99, 'https://via.placeholder.com/300x300/34C759/FFFFFF?text=Galaxy+S24', 30),
+('MacBook Air M3', 'Apple MacBook Air 13" M3 Chip', 44999.99, 'https://via.placeholder.com/300x300/FF9500/FFFFFF?text=MacBook+Air', 15),
+('Sony WH-1000XM5', 'Sony Kablosuz Gürültü Önleyici Kulaklık', 12999.99, 'https://via.placeholder.com/300x300/FF2D92/FFFFFF?text=Sony+WH', 50),
+('Nike Air Max 270', 'Nike Air Max 270 Erkek Spor Ayakkabı', 3999.99, 'https://via.placeholder.com/300x300/007AFF/FFFFFF?text=Nike+Air', 75),
+('Zara Kadın Blazer Ceket', 'Zara Kadın Klasik Blazer Ceket', 899.99, 'https://via.placeholder.com/300x300/5856D6/FFFFFF?text=Zara+Blazer', 40),
+('Dell XPS 13', 'Dell XPS 13 11th Gen Intel Core i7', 39999.99, 'https://via.placeholder.com/300x300/AF52DE/FFFFFF?text=Dell+XPS', 20),
+('Adidas Ultraboost 22', 'Adidas Ultraboost 22 Koşu Ayakkabısı', 4499.99, 'https://via.placeholder.com/300x300/FF6B35/FFFFFF?text=Adidas', 60),
+('Canon EOS R5', 'Canon EOS R5 Aynasız Fotoğraf Makinesi', 149999.99, 'https://via.placeholder.com/300x300/32D74B/FFFFFF?text=Canon+R5', 8),
+('H&M Erkek Gömlek', 'H&M Erkek Slim Fit Gömlek', 299.99, 'https://via.placeholder.com/300x300/34C759/FFFFFF?text=HM+Shirt', 100),
+('Apple Watch Series 9', 'Apple Watch Series 9 GPS 45mm', 15999.99, 'https://via.placeholder.com/300x300/FF3B30/FFFFFF?text=Apple+Watch', 35),
+('PlayStation 5', 'Sony PlayStation 5 Konsol', 24999.99, 'https://via.placeholder.com/300x300/000000/FFFFFF?text=PS5', 12),
+('Dyson V15 Detect', 'Dyson V15 Detect Kablosuz Süpürge', 18999.99, 'https://via.placeholder.com/300x300/8E8E93/FFFFFF?text=Dyson+V15', 18),
+('Levi\'s 501 Jean', 'Levi\'s 501 Original Fit Erkek Jean', 1299.99, 'https://via.placeholder.com/300x300/1D1D1F/FFFFFF?text=Levis+501', 80),
+('Mango Kadın Elbise', 'Mango Kadın Midi Elbise', 649.99, 'https://via.placeholder.com/300x300/FF2D92/FFFFFF?text=Mango+Dress', 55); 
